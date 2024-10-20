@@ -3,10 +3,10 @@
 All explorer notes and dossiers in Ark: Survival Ascended for Aberration map.
 
 Find the GameUserSettings.ini file in:
-> \Steam\steamapps\common\ARK Survival Ascended\ShooterGame\Saved\Config\Windows
+>\Steam\steamapps\common\ARK Survival Ascended\ShooterGame\Saved\Config\Windows
 
 add the lines from Notes.txt to GameUserSettings.ini under header:
-> [/Script/ShooterGame.ShooterGameUserSettings]
+>[/Script/ShooterGame.ShooterGameUserSettings]
 
 The waypoints are missing '??? Notes' and 'HLN-A Discoveries'.
 They can be found at:
@@ -21,4 +21,14 @@ HLN-A Discovery #9 - 68.0 66.0 The Spine
 HLN-A Discovery #10 - 27.8 46.7 Mushroom Forest
 HLN-A Discovery #11 - 28.1 76.2 The Surface (North East)
 ```
-IF anyone cares to create waypoint lines for them, please share with me, so I can add them to this repo.
+If anyone cares to create waypoint lines for them, please share with me, so I can add them to this repo.
+
+----------------
+
+You can also check out other repos for other maps.
+
+The Island:
+>https://github.com/gridrek/ASA_Explorer_Notes
+
+Sorched Earth:
+>https://github.com/DragonElder999/ASA-SE-Notes
