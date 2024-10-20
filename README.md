@@ -1,7 +1,8 @@
 # ASA-AB-Notes
 
-All explorer notes and dossiers in Ark: Survival Ascended
-find the GameUserSettings.ini file in:
+All explorer notes and dossiers in Ark: Survival Ascended for Aberration map.
+
+Find the GameUserSettings.ini file in:
 > \Steam\steamapps\common\ARK Survival Ascended\ShooterGame\Saved\Config\Windows
 
 add the lines from Notes.txt to GameUserSettings.ini under header:
